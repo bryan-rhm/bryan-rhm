@@ -20,6 +20,7 @@ My name is Bryan, I'm currently working remotely as Devops Engineer, I'm always 
 Certifications:
 
 <img src="images/cka.png" alt="Kubernetes Certification CKA" width="150" height="150">
+<img src="images/ckad.png" alt="Kubernetes Certification CKAD" width="150" height="150">
 <img src="images/terraform.png" alt="Terraform Associate" width="150" height="150">
 <img src="images/aws-developer.png" alt="AWS Developr Associate" width="150" height="150">
 <img src="images/aws-sysops.png" alt="AWS Sysops Administrator Associate" width="150" height="150">
