@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**bryan-rhm/bryan-rhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bryan, I'm currently working remotely as Devops Engineer, I'm always trying to learn some edge technologies, I also have experience as a fullstack developer, here are some of my skills:
 
-Here are some ideas to get you started:
+- AWS
+- Terraform
+- Kubernetes
+- Docker
+- PHP
+- Python
+- Javascript
+- Java
+- Linux
+- Jenkins
+- Git
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: bryan.rhm1@gmail.com / [Linkedin](https://www.linkedin.com/in/bryan-recinos-16a481159/)
+
+Certifications:
+[Kubernetes Administrator CKA](images/cka.png)
+[Terraform Associate](images/terraform.png)
+[Amazon Web Services Developer Associate](images/aws-developer.png)
+[Amazon Web Services SysOps Administrator Associate](images/aws-sysops.png)
+[Amazon Web services Solution Architect Associate](images/aws-architect.png)
+
+
+
+![Visitors Count](https://profile-counter.glitch.me/bryan-rhm/count.svg)
