@@ -19,10 +19,10 @@ My name is Bryan, I'm currently working remotely as Devops Engineer, I'm always 
 
 Certifications:
 [Kubernetes Administrator CKA](images/cka.png)
-[Terraform Associate](images/terraform.png)
-[Amazon Web Services Developer Associate](images/aws-developer.png)
-[Amazon Web Services SysOps Administrator Associate](images/aws-sysops.png)
-[Amazon Web services Solution Architect Associate](images/aws-architect.png)
+![Terraform Associate](images/terraform.png)
+![Amazon Web Services Developer Associate](images/aws-developer.png)
+![Amazon Web Services SysOps Administrator Associate](images/aws-sysops.png)
+![Amazon Web services Solution Architect Associate](images/aws-architect.png)
 
 
 
