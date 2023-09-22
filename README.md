@@ -5,6 +5,8 @@ My name is Bryan, I'm currently working remotely as Devops Engineer, I'm always 
 - AWS
 - Terraform
 - Kubernetes
+- CDK
+- Pulumi
 - Docker
 - PHP
 - Python
@@ -15,7 +17,7 @@ My name is Bryan, I'm currently working remotely as Devops Engineer, I'm always 
 - Git
 - SQL
 
-📫 How to reach me: bryan.rhm1@gmail.com / [Linkedin](https://www.linkedin.com/in/bryan-recinos-16a481159/)
+📫 How to reach me: bryan.rhm1@gmail.com
 
 Certifications:
 <div style="display:inline-block">
